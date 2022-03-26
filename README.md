@@ -1,2 +1,2 @@
-# Bayesian-Network-Algorithms-
-Running various Bayesian networks on datasets with outliers and comparing their performance
+# Bayesian-Network-Learning-Algorithms-
+Running various Bayesian networks learning algorithms on datasets with and without outliers and comparing their performance.
